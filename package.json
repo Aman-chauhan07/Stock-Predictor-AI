@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s05qcfg",
+  "description": "https://scrimba.com/intro-to-ai-engineering-c032/~01/s098dgbg81/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
